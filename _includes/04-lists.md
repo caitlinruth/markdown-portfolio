@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+My favourite apples:
+* Gala
+  * Royal
+  * <b>Not</b> regular
+* Braeburn
+* Cox
